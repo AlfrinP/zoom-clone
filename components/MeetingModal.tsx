@@ -2,7 +2,6 @@ import { ReactNode } from "react";
 import {
   Dialog,
   DialogContent,
-  DialogTitle,
 } from "@/components/ui/dialog";
 import Image from "next/image";
 import { cn } from "@/lib/utils";
